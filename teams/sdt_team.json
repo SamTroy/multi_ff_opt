@@ -1,0 +1,39 @@
+{
+    "success": {
+        "team": {
+            "id": 62368,
+            "startGameweekId": 1,
+            "name": "Sonny and Schar",
+            "formation": "4-4-2",
+            "captain": 118748,
+            "viceCaptain": 141746,
+            "lineup": {
+                "GK": [
+                    116535
+                ],
+                "DEF": [
+                    477424,
+                    169187,
+                    97032,
+                    159506
+                ],
+                "MID": [
+                    116216,
+                    222683,
+                    141746,
+                    204480
+                ],
+                "STR": [
+                    223094,
+                    118748
+                ]
+            },
+            "budget": 200000,
+            "twelfthMan": 13,
+            "twelfthManPlayer": 244851,
+            "goalBonus": 8,
+            "maxCaptain": null
+        }
+    },
+    "errors": []
+}
