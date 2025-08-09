@@ -1,7 +1,7 @@
 {
   "last_date": 30,
   "flatten_dates_after": null,
-  "transfer_cost": 4.5,
+  "transfer_cost": 4,
   "weekly_decay": 0.95,
   "vicecap_weight": 0.05,
   "use_team_json": false,
