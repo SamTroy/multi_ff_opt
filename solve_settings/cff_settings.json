@@ -23,9 +23,9 @@
   "seed_val": null,
   "settings_noise": true,
   "solver_type": "highs",
-  "solver_path": "C:\\Users\\samtr\\fpl-optimization\\bin\\highs.exe",
+  "solver_path": "C:\\Users\\samtr\\py_exps\\multi_ff_opt\\bin\\highs.exe",
   "presolve": "on",
-  "use_cmd": true,
+  "use_cmd": false,
   "time_limit": 300,
   "delete_tmp": true
 }

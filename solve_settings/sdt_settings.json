@@ -1,7 +1,7 @@
 {
   "last_date": 30,
   "flatten_dates_after": null,
-  "transfer_cost": 4,
+  "transfer_cost": 2,
   "weekly_decay": 0.95,
   "vicecap_weight": 0.05,
   "use_team_json": false,
@@ -22,9 +22,9 @@
   "seed_val": null,
   "settings_noise": true,
   "solver_type": "highs",
-  "solver_path": "C:\\Users\\samtr\\fpl-optimization\\bin\\highs.exe",
+  "solver_path": "C:\\Users\\samtr\\py_exps\\multi_ff_opt\\bin\\highs.exe",
   "presolve": "on",
-  "use_cmd": true,
+  "use_cmd": false,
   "time_limit": 300,
   "delete_tmp": true
 }
