@@ -1,7 +1,7 @@
 {
-  "last_date": 12,
+  "last_date": 6,
   "flatten_dates_after": null,
-  "transfer_cost": 2,
+  "transfer_cost": 3,
   "weekly_decay": 0.95,
   "vicecap_weight": 0.05,
   "use_team_json": false,
@@ -16,7 +16,7 @@
   "no_transfer_mds": null,
   "show_non_team_ev": false,
   "apply_noise": true,
-  "sim_number": 50,
+  "sim_number": 20,
   "binary_fix_solve": false,
   "noise_magnitude": 1,
   "seed_val": null,
