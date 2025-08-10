@@ -1,5 +1,5 @@
 {
-  "last_date": 30,
+  "last_date": 12,
   "flatten_dates_after": null,
   "transfer_cost": 6.5,
   "is_decay": true,
@@ -22,11 +22,5 @@
   "binary_fix_solve": false,
   "noise_magnitude": 1,
   "seed_val": null,
-  "settings_noise": true,
-  "solver_type": "highs",
-  "solver_path": "C:\\Users\\samtr\\py_exps\\multi_ff_opt\\bin\\highs.exe",
-  "presolve": "on",
-  "use_cmd": false,
-  "time_limit": 300,
-  "delete_tmp": true
+  "settings_noise": true
 }

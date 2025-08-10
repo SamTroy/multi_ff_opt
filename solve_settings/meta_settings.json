@@ -1,0 +1,8 @@
+{
+    "solver_type": "highs",
+    "solver_path": null,
+    "presolve": "on",
+    "use_cmd": false,
+    "time_limit": 300,
+    "delete_tmp": true
+}
