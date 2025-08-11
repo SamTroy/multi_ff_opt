@@ -11,7 +11,7 @@
   "total_pts_cutoff": null,
   "ppm_cutoff": null,
   "smart_cutoff": 0.7,
-  "exclusions": [224967],
+  "exclusions": null,
   "keeps": null,
   "force_transfer_in": null,
   "force_transfer_out": null,

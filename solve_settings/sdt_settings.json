@@ -1,7 +1,7 @@
 {
   "last_date": 12,
   "flatten_dates_after": null,
-  "transfer_cost": 3,
+  "transfer_cost": 3.5,
   "weekly_decay": 0.95,
   "vicecap_weight": 0.05,
   "use_team_json": false,
@@ -11,7 +11,7 @@
   "total_pts_cutoff": null,
   "ppm_cutoff": null,
   "smart_cutoff": 0.7,
-  "exclusions": [],
+  "exclusions": null,
   "keeps": null,
   "force_transfer_in": null,
   "force_transfer_out": null,

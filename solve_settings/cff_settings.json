@@ -7,7 +7,7 @@
   "use_team_json": false,
   "initial_team": [],
   "gw_transfers_remaining": 5,
-  "total_transfers_remaining": 40,
+  "total_transfers_remaining": 50,
   "total_pts_cutoff": null,
   "ppm_cutoff": null,
   "smart_cutoff": 0.7,
