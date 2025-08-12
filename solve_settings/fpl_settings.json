@@ -3,6 +3,7 @@
   "transfer_cost": 2.5,
   "weekly_decay": 0.95,
   "vicecap_weight": 0.05,
+  "bench_weights": {"0": 0.03, "1": 0.21, "2": 0.06, "3": 0.002},
   "use_team_json": true,
   "initial_team": null,
   "initial_itb": null,
