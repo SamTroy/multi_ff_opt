@@ -33,3 +33,5 @@ Open the notebook in the `run` folder and run the cells to get started
 - `use_cmd`: `true` or `false` to use `os.system` or `subprocess` for running solver, default is `false`
 - `time_limit`: number of seconds before solve is aborted
 - `delete_tmp`: `true` or `false` to delete the contents of the `tmp` folder when solve is completed
+
+With thanks to [Sertalp](https://github.com/sertalpbilal) for solver expertise, and [Elevenify](https://www.elevenify.com/) for generously sharing team projections
