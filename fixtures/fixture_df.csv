@@ -30,7 +30,6 @@ lc,8654,100000005,West Ham United,League Cup Av,WHU,LC,2025-08-27T21:00:00Z,2025
 lc,8602,100000005,Wolverhampton Wanderers,League Cup Av,WOL,LC,2025-08-27T21:00:00Z,2025-08-27,2025-08-27 21:00:00+00:00,False,True,False,1.0,True,2,2
 lc,8191,100000005,Burnley,League Cup Av,BUR,LC,2025-08-27T21:00:00Z,2025-08-27,2025-08-27 21:00:00+00:00,False,True,False,1.0,True,2,2
 lc,8472,100000005,Sunderland,League Cup Av,SUN,LC,2025-08-27T21:00:00Z,2025-08-27,2025-08-27 21:00:00+00:00,False,True,False,1.0,True,2,2
-pl,10252,9826,Aston Villa,Crystal Palace,AVL,CRY,2025-08-29T20:00:00Z,2025-08-29,2025-08-29 20:00:00+00:00,True,True,True,1.0,False,3,3
 pl,8455,9879,Chelsea,Fulham,CHE,FUL,2025-08-30T12:30:00Z,2025-08-30,2025-08-30 12:30:00+00:00,True,True,True,1.0,False,3,3
 pl,10260,8191,Manchester United,Burnley,MUN,BUR,2025-08-30T15:00:00Z,2025-08-30,2025-08-30 15:00:00+00:00,True,True,True,1.0,False,3,3
 pl,8472,9937,Sunderland,Brentford,SUN,BRE,2025-08-30T15:00:00Z,2025-08-30,2025-08-30 15:00:00+00:00,True,True,True,1.0,False,3,3
@@ -40,6 +39,7 @@ pl,8463,10261,Leeds United,Newcastle United,LEE,NEW,2025-08-30T17:30:00Z,2025-08
 pl,10204,8456,Brighton and Hove Albion,Manchester City,BHA,MCI,2025-08-31T14:00:00Z,2025-08-31,2025-08-31 14:00:00+00:00,True,True,True,1.0,False,3,3
 pl,10203,8654,Nottingham Forest,West Ham United,NFO,WHU,2025-08-31T14:00:00Z,2025-08-31,2025-08-31 14:00:00+00:00,True,True,True,1.0,False,3,3
 pl,8650,9825,Liverpool,Arsenal,LIV,ARS,2025-08-31T16:30:00Z,2025-08-31,2025-08-31 16:30:00+00:00,True,True,True,1.0,False,3,3
+pl,10252,9826,Aston Villa,Crystal Palace,AVL,CRY,2025-08-31T19:00:00Z,2025-08-31,2025-08-31 19:00:00+00:00,True,True,True,1.0,False,3,3
 pl,9825,10203,Arsenal,Nottingham Forest,ARS,NFO,2025-09-13T12:30:00Z,2025-09-13,2025-09-13 12:30:00+00:00,True,True,True,1.0,False,4,5
 pl,8678,10204,Bournemouth,Brighton and Hove Albion,BOU,BHA,2025-09-13T15:00:00Z,2025-09-13,2025-09-13 15:00:00+00:00,True,True,True,1.0,False,4,5
 pl,8668,10252,Everton,Aston Villa,EVE,AVL,2025-09-13T15:00:00Z,2025-09-13,2025-09-13 15:00:00+00:00,True,True,True,1.0,False,4,5
@@ -81,10 +81,10 @@ lc,9825,100000005,Arsenal,League Cup Av,ARS,LC,2025-09-23T21:00:00Z,2025-09-23,2
 lc,10261,100000005,Newcastle United,League Cup Av,NEW,LC,2025-09-23T21:00:00Z,2025-09-23,2025-09-23 21:00:00+00:00,False,True,False,1.0,True,5,6
 lc,8586,100000005,Tottenham Hotspur,League Cup Av,TOT,LC,2025-09-23T21:00:00Z,2025-09-23,2025-09-23 21:00:00+00:00,False,True,False,1.0,True,5,6
 lc,8650,100000005,Liverpool,League Cup Av,LIV,LC,2025-09-23T21:00:00Z,2025-09-23,2025-09-23 21:00:00+00:00,False,True,False,1.0,True,5,6
+uel,10203,100000002,Nottingham Forest,Europa League Av,NFO,UEL,2025-09-23T21:00:00Z,2025-09-23,2025-09-23 21:00:00+00:00,False,False,False,1.0,True,5,6
 uel,10252,100000002,Aston Villa,Europa League Av,AVL,UEL,2025-09-23T21:00:00Z,2025-09-23,2025-09-23 21:00:00+00:00,False,False,False,1.0,True,5,6
-uel,9826,100000002,Crystal Palace,Europa League Av,CRY,UEL,2025-09-23T21:00:00Z,2025-09-23,2025-09-23 21:00:00+00:00,False,False,False,1.0,True,5,6
 lc,8456,100000005,Manchester City,League Cup Av,MCI,LC,2025-09-23T21:00:00Z,2025-09-23,2025-09-23 21:00:00+00:00,False,True,False,1.0,True,5,6
-uecl,10203,100000003,Nottingham Forest,Europa Conf League Av,NFO,UECL,2025-09-23T21:00:00Z,2025-09-23,2025-09-23 21:00:00+00:00,False,False,False,1.0,True,5,6
+uecl,9826,100000003,Crystal Palace,Europa Conf League Av,CRY,UECL,2025-09-23T21:00:00Z,2025-09-23,2025-09-23 21:00:00+00:00,False,False,False,1.0,True,5,6
 lc,8455,100000005,Chelsea,League Cup Av,CHE,LC,2025-09-23T21:00:00Z,2025-09-23,2025-09-23 21:00:00+00:00,False,True,False,1.0,True,5,6
 pl,9937,10260,Brentford,Manchester United,BRE,MUN,2025-09-27T12:30:00Z,2025-09-27,2025-09-27 12:30:00+00:00,True,True,True,1.0,False,6,7
 pl,8456,8191,Manchester City,Burnley,MCI,BUR,2025-09-27T15:00:00Z,2025-09-27,2025-09-27 15:00:00+00:00,True,True,True,1.0,False,6,7
@@ -115,9 +115,9 @@ pl,10260,8472,Manchester United,Sunderland,MUN,SUN,2025-10-04T15:00:00Z,2025-10-
 pl,10261,10203,Newcastle United,Nottingham Forest,NEW,NFO,2025-10-04T15:00:00Z,2025-10-04,2025-10-04 15:00:00+00:00,True,True,True,1.0,False,7,8
 pl,8668,9826,Everton,Crystal Palace,EVE,CRY,2025-10-04T15:00:00Z,2025-10-04,2025-10-04 15:00:00+00:00,True,True,True,1.0,False,7,8
 pl,8602,10204,Wolverhampton Wanderers,Brighton and Hove Albion,WOL,BHA,2025-10-04T15:00:00Z,2025-10-04,2025-10-04 15:00:00+00:00,True,True,True,1.0,False,7,8
+uel,10203,100000002,Nottingham Forest,Europa League Av,NFO,UEL,2025-10-09T21:00:00Z,2025-10-09,2025-10-09 21:00:00+00:00,False,False,False,1.0,True,7,8
+uecl,9826,100000003,Crystal Palace,Europa Conf League Av,CRY,UECL,2025-10-09T21:00:00Z,2025-10-09,2025-10-09 21:00:00+00:00,False,False,False,1.0,True,7,8
 uel,10252,100000002,Aston Villa,Europa League Av,AVL,UEL,2025-10-09T21:00:00Z,2025-10-09,2025-10-09 21:00:00+00:00,False,False,False,1.0,True,7,8
-uecl,10203,100000003,Nottingham Forest,Europa Conf League Av,NFO,UECL,2025-10-09T21:00:00Z,2025-10-09,2025-10-09 21:00:00+00:00,False,False,False,1.0,True,7,8
-uel,9826,100000002,Crystal Palace,Europa League Av,CRY,UEL,2025-10-09T21:00:00Z,2025-10-09,2025-10-09 21:00:00+00:00,False,False,False,1.0,True,7,8
 pl,8456,8668,Manchester City,Everton,MCI,EVE,2025-10-18T15:00:00Z,2025-10-18,2025-10-18 15:00:00+00:00,True,True,True,1.0,False,8,10
 pl,10204,10261,Brighton and Hove Albion,Newcastle United,BHA,NEW,2025-10-18T15:00:00Z,2025-10-18,2025-10-18 15:00:00+00:00,True,True,True,1.0,False,8,10
 pl,8191,8463,Burnley,Leeds United,BUR,LEE,2025-10-18T15:00:00Z,2025-10-18,2025-10-18 15:00:00+00:00,True,True,True,1.0,False,8,10
@@ -128,14 +128,14 @@ pl,8654,9937,West Ham United,Brentford,WHU,BRE,2025-10-18T15:00:00Z,2025-10-18,2
 pl,8586,10252,Tottenham Hotspur,Aston Villa,TOT,AVL,2025-10-18T15:00:00Z,2025-10-18,2025-10-18 15:00:00+00:00,True,True,True,1.0,False,8,10
 pl,8472,8602,Sunderland,Wolverhampton Wanderers,SUN,WOL,2025-10-18T15:00:00Z,2025-10-18,2025-10-18 15:00:00+00:00,True,True,True,1.0,False,8,10
 pl,10203,8455,Nottingham Forest,Chelsea,NFO,CHE,2025-10-18T15:00:00Z,2025-10-18,2025-10-18 15:00:00+00:00,True,True,True,1.0,False,8,10
-uecl,10203,100000003,Nottingham Forest,Europa Conf League Av,NFO,UECL,2025-10-21T21:00:00Z,2025-10-21,2025-10-21 21:00:00+00:00,False,False,False,1.0,True,8,10
+uecl,9826,100000003,Crystal Palace,Europa Conf League Av,CRY,UECL,2025-10-21T21:00:00Z,2025-10-21,2025-10-21 21:00:00+00:00,False,False,False,1.0,True,8,10
 ucl,8455,100000001,Chelsea,Champions League Av,CHE,UCL,2025-10-21T21:00:00Z,2025-10-21,2025-10-21 21:00:00+00:00,False,False,False,1.0,True,8,10
-uel,9826,100000002,Crystal Palace,Europa League Av,CRY,UEL,2025-10-21T21:00:00Z,2025-10-21,2025-10-21 21:00:00+00:00,False,False,False,1.0,True,8,10
+uel,10252,100000002,Aston Villa,Europa League Av,AVL,UEL,2025-10-21T21:00:00Z,2025-10-21,2025-10-21 21:00:00+00:00,False,False,False,1.0,True,8,10
 ucl,8456,100000001,Manchester City,Champions League Av,MCI,UCL,2025-10-21T21:00:00Z,2025-10-21,2025-10-21 21:00:00+00:00,False,False,False,1.0,True,8,10
 ucl,10261,100000001,Newcastle United,Champions League Av,NEW,UCL,2025-10-21T21:00:00Z,2025-10-21,2025-10-21 21:00:00+00:00,False,False,False,1.0,True,8,10
 ucl,9825,100000001,Arsenal,Champions League Av,ARS,UCL,2025-10-21T21:00:00Z,2025-10-21,2025-10-21 21:00:00+00:00,False,False,False,1.0,True,8,10
 ucl,8650,100000001,Liverpool,Champions League Av,LIV,UCL,2025-10-21T21:00:00Z,2025-10-21,2025-10-21 21:00:00+00:00,False,False,False,1.0,True,8,10
-uel,10252,100000002,Aston Villa,Europa League Av,AVL,UEL,2025-10-21T21:00:00Z,2025-10-21,2025-10-21 21:00:00+00:00,False,False,False,1.0,True,8,10
+uel,10203,100000002,Nottingham Forest,Europa League Av,NFO,UEL,2025-10-21T21:00:00Z,2025-10-21,2025-10-21 21:00:00+00:00,False,False,False,1.0,True,8,10
 ucl,8586,100000001,Tottenham Hotspur,Champions League Av,TOT,UCL,2025-10-21T21:00:00Z,2025-10-21,2025-10-21 21:00:00+00:00,False,False,False,1.0,True,8,10
 pl,8678,10203,Bournemouth,Nottingham Forest,BOU,NFO,2025-10-25T15:00:00Z,2025-10-25,2025-10-25 15:00:00+00:00,True,True,True,1.0,False,9,11
 pl,8463,8654,Leeds United,West Ham United,LEE,WHU,2025-10-25T15:00:00Z,2025-10-25,2025-10-25 15:00:00+00:00,True,True,True,1.0,False,9,11
@@ -157,14 +157,14 @@ pl,8472,8668,Sunderland,Everton,SUN,EVE,2025-11-01T15:00:00Z,2025-11-01,2025-11-
 pl,10203,10260,Nottingham Forest,Manchester United,NFO,MUN,2025-11-01T15:00:00Z,2025-11-01,2025-11-01 15:00:00+00:00,True,True,True,1.0,False,10,12
 pl,10204,8463,Brighton and Hove Albion,Leeds United,BHA,LEE,2025-11-01T15:00:00Z,2025-11-01,2025-11-01 15:00:00+00:00,True,True,True,1.0,False,10,12
 pl,9826,9937,Crystal Palace,Brentford,CRY,BRE,2025-11-01T15:00:00Z,2025-11-01,2025-11-01 15:00:00+00:00,True,True,True,1.0,False,10,12
-uel,10252,100000002,Aston Villa,Europa League Av,AVL,UEL,2025-11-04T20:00:00Z,2025-11-04,2025-11-04 20:00:00+00:00,False,False,False,1.0,True,10,12
+uel,10203,100000002,Nottingham Forest,Europa League Av,NFO,UEL,2025-11-04T20:00:00Z,2025-11-04,2025-11-04 20:00:00+00:00,False,False,False,1.0,True,10,12
 ucl,10261,100000001,Newcastle United,Champions League Av,NEW,UCL,2025-11-04T20:00:00Z,2025-11-04,2025-11-04 20:00:00+00:00,False,False,False,1.0,True,10,12
 ucl,8455,100000001,Chelsea,Champions League Av,CHE,UCL,2025-11-04T20:00:00Z,2025-11-04,2025-11-04 20:00:00+00:00,False,False,False,1.0,True,10,12
 ucl,9825,100000001,Arsenal,Champions League Av,ARS,UCL,2025-11-04T20:00:00Z,2025-11-04,2025-11-04 20:00:00+00:00,False,False,False,1.0,True,10,12
-uecl,10203,100000003,Nottingham Forest,Europa Conf League Av,NFO,UECL,2025-11-04T20:00:00Z,2025-11-04,2025-11-04 20:00:00+00:00,False,False,False,1.0,True,10,12
+uecl,9826,100000003,Crystal Palace,Europa Conf League Av,CRY,UECL,2025-11-04T20:00:00Z,2025-11-04,2025-11-04 20:00:00+00:00,False,False,False,1.0,True,10,12
 ucl,8456,100000001,Manchester City,Champions League Av,MCI,UCL,2025-11-04T20:00:00Z,2025-11-04,2025-11-04 20:00:00+00:00,False,False,False,1.0,True,10,12
 ucl,8650,100000001,Liverpool,Champions League Av,LIV,UCL,2025-11-04T20:00:00Z,2025-11-04,2025-11-04 20:00:00+00:00,False,False,False,1.0,True,10,12
-uel,9826,100000002,Crystal Palace,Europa League Av,CRY,UEL,2025-11-04T20:00:00Z,2025-11-04,2025-11-04 20:00:00+00:00,False,False,False,1.0,True,10,12
+uel,10252,100000002,Aston Villa,Europa League Av,AVL,UEL,2025-11-04T20:00:00Z,2025-11-04,2025-11-04 20:00:00+00:00,False,False,False,1.0,True,10,12
 ucl,8586,100000001,Tottenham Hotspur,Champions League Av,TOT,UCL,2025-11-04T20:00:00Z,2025-11-04,2025-11-04 20:00:00+00:00,False,False,False,1.0,True,10,12
 pl,9826,10204,Crystal Palace,Brighton and Hove Albion,CRY,BHA,2025-11-08T15:00:00Z,2025-11-08,2025-11-08 15:00:00+00:00,True,True,True,1.0,False,11,13
 pl,8654,8191,West Ham United,Burnley,WHU,BUR,2025-11-08T15:00:00Z,2025-11-08,2025-11-08 15:00:00+00:00,True,True,True,1.0,False,11,13
@@ -186,14 +186,14 @@ pl,8650,10203,Liverpool,Nottingham Forest,LIV,NFO,2025-11-22T15:00:00Z,2025-11-2
 pl,10260,8668,Manchester United,Everton,MUN,EVE,2025-11-22T15:00:00Z,2025-11-22,2025-11-22 15:00:00+00:00,True,True,True,1.0,False,12,15
 pl,10261,8456,Newcastle United,Manchester City,NEW,MCI,2025-11-22T15:00:00Z,2025-11-22,2025-11-22 15:00:00+00:00,True,True,True,1.0,False,12,15
 pl,8602,9826,Wolverhampton Wanderers,Crystal Palace,WOL,CRY,2025-11-22T15:00:00Z,2025-11-22,2025-11-22 15:00:00+00:00,True,True,True,1.0,False,12,15
-uel,9826,100000002,Crystal Palace,Europa League Av,CRY,UEL,2025-11-25T20:00:00Z,2025-11-25,2025-11-25 20:00:00+00:00,False,False,False,1.0,True,12,15
+uel,10252,100000002,Aston Villa,Europa League Av,AVL,UEL,2025-11-25T20:00:00Z,2025-11-25,2025-11-25 20:00:00+00:00,False,False,False,1.0,True,12,15
 ucl,8650,100000001,Liverpool,Champions League Av,LIV,UCL,2025-11-25T20:00:00Z,2025-11-25,2025-11-25 20:00:00+00:00,False,False,False,1.0,True,12,15
 ucl,9825,100000001,Arsenal,Champions League Av,ARS,UCL,2025-11-25T20:00:00Z,2025-11-25,2025-11-25 20:00:00+00:00,False,False,False,1.0,True,12,15
 ucl,8456,100000001,Manchester City,Champions League Av,MCI,UCL,2025-11-25T20:00:00Z,2025-11-25,2025-11-25 20:00:00+00:00,False,False,False,1.0,True,12,15
 ucl,8455,100000001,Chelsea,Champions League Av,CHE,UCL,2025-11-25T20:00:00Z,2025-11-25,2025-11-25 20:00:00+00:00,False,False,False,1.0,True,12,15
 ucl,8586,100000001,Tottenham Hotspur,Champions League Av,TOT,UCL,2025-11-25T20:00:00Z,2025-11-25,2025-11-25 20:00:00+00:00,False,False,False,1.0,True,12,15
-uecl,10203,100000003,Nottingham Forest,Europa Conf League Av,NFO,UECL,2025-11-25T20:00:00Z,2025-11-25,2025-11-25 20:00:00+00:00,False,False,False,1.0,True,12,15
-uel,10252,100000002,Aston Villa,Europa League Av,AVL,UEL,2025-11-25T20:00:00Z,2025-11-25,2025-11-25 20:00:00+00:00,False,False,False,1.0,True,12,15
+uecl,9826,100000003,Crystal Palace,Europa Conf League Av,CRY,UECL,2025-11-25T20:00:00Z,2025-11-25,2025-11-25 20:00:00+00:00,False,False,False,1.0,True,12,15
+uel,10203,100000002,Nottingham Forest,Europa League Av,NFO,UEL,2025-11-25T20:00:00Z,2025-11-25,2025-11-25 20:00:00+00:00,False,False,False,1.0,True,12,15
 ucl,10261,100000001,Newcastle United,Champions League Av,NEW,UCL,2025-11-25T20:00:00Z,2025-11-25,2025-11-25 20:00:00+00:00,False,False,False,1.0,True,12,15
 pl,8456,8463,Manchester City,Leeds United,MCI,LEE,2025-11-29T15:00:00Z,2025-11-29,2025-11-29 15:00:00+00:00,True,True,True,1.0,False,13,16
 pl,10203,10204,Nottingham Forest,Brighton and Hove Albion,NFO,BHA,2025-11-29T15:00:00Z,2025-11-29,2025-11-29 15:00:00+00:00,True,True,True,1.0,False,13,16
@@ -319,11 +319,11 @@ ucl,8586,100000001,Tottenham Hotspur,Champions League Av,TOT,UCL,2026-01-20T20:0
 ucl,8650,100000001,Liverpool,Champions League Av,LIV,UCL,2026-01-20T20:00:00Z,2026-01-20,2026-01-20 20:00:00+00:00,False,False,False,1.0,True,22,23
 ucl,8456,100000001,Manchester City,Champions League Av,MCI,UCL,2026-01-20T20:00:00Z,2026-01-20,2026-01-20 20:00:00+00:00,False,False,False,1.0,True,22,23
 ucl,8455,100000001,Chelsea,Champions League Av,CHE,UCL,2026-01-20T20:00:00Z,2026-01-20,2026-01-20 20:00:00+00:00,False,False,False,1.0,True,22,23
-uecl,10203,100000003,Nottingham Forest,Europa Conf League Av,NFO,UECL,2026-01-20T20:00:00Z,2026-01-20,2026-01-20 20:00:00+00:00,False,False,False,1.0,True,22,23
+uecl,9826,100000003,Crystal Palace,Europa Conf League Av,CRY,UECL,2026-01-20T20:00:00Z,2026-01-20,2026-01-20 20:00:00+00:00,False,False,False,1.0,True,22,23
 ucl,10261,100000001,Newcastle United,Champions League Av,NEW,UCL,2026-01-20T20:00:00Z,2026-01-20,2026-01-20 20:00:00+00:00,False,False,False,1.0,True,22,23
 ucl,9825,100000001,Arsenal,Champions League Av,ARS,UCL,2026-01-20T20:00:00Z,2026-01-20,2026-01-20 20:00:00+00:00,False,False,False,1.0,True,22,23
+uel,10203,100000002,Nottingham Forest,Europa League Av,NFO,UEL,2026-01-20T20:00:00Z,2026-01-20,2026-01-20 20:00:00+00:00,False,False,False,1.0,True,22,23
 uel,10252,100000002,Aston Villa,Europa League Av,AVL,UEL,2026-01-20T20:00:00Z,2026-01-20,2026-01-20 20:00:00+00:00,False,False,False,1.0,True,22,23
-uel,9826,100000002,Crystal Palace,Europa League Av,CRY,UEL,2026-01-20T20:00:00Z,2026-01-20,2026-01-20 20:00:00+00:00,False,False,False,1.0,True,22,23
 pl,9825,10260,Arsenal,Manchester United,ARS,MUN,2026-01-24T15:00:00Z,2026-01-24,2026-01-24 15:00:00+00:00,True,True,True,1.0,False,23,24
 pl,9826,8455,Crystal Palace,Chelsea,CRY,CHE,2026-01-24T15:00:00Z,2026-01-24,2026-01-24 15:00:00+00:00,True,True,True,1.0,False,23,24
 pl,8668,8463,Everton,Leeds United,EVE,LEE,2026-01-24T15:00:00Z,2026-01-24,2026-01-24 15:00:00+00:00,True,True,True,1.0,False,23,24
@@ -336,12 +336,12 @@ pl,10261,10252,Newcastle United,Aston Villa,NEW,AVL,2026-01-24T15:00:00Z,2026-01
 pl,9937,10203,Brentford,Nottingham Forest,BRE,NFO,2026-01-24T15:00:00Z,2026-01-24,2026-01-24 15:00:00+00:00,True,True,True,1.0,False,23,24
 ucl,9825,100000001,Arsenal,Champions League Av,ARS,UCL,2026-01-28T20:00:00Z,2026-01-28,2026-01-28 20:00:00+00:00,False,False,False,1.0,True,23,24
 ucl,8650,100000001,Liverpool,Champions League Av,LIV,UCL,2026-01-28T20:00:00Z,2026-01-28,2026-01-28 20:00:00+00:00,False,False,False,1.0,True,23,24
-uel,9826,100000002,Crystal Palace,Europa League Av,CRY,UEL,2026-01-28T20:00:00Z,2026-01-28,2026-01-28 20:00:00+00:00,False,False,False,1.0,True,23,24
+uel,10252,100000002,Aston Villa,Europa League Av,AVL,UEL,2026-01-28T20:00:00Z,2026-01-28,2026-01-28 20:00:00+00:00,False,False,False,1.0,True,23,24
 ucl,8455,100000001,Chelsea,Champions League Av,CHE,UCL,2026-01-28T20:00:00Z,2026-01-28,2026-01-28 20:00:00+00:00,False,False,False,1.0,True,23,24
 ucl,10261,100000001,Newcastle United,Champions League Av,NEW,UCL,2026-01-28T20:00:00Z,2026-01-28,2026-01-28 20:00:00+00:00,False,False,False,1.0,True,23,24
 ucl,8586,100000001,Tottenham Hotspur,Champions League Av,TOT,UCL,2026-01-28T20:00:00Z,2026-01-28,2026-01-28 20:00:00+00:00,False,False,False,1.0,True,23,24
-uecl,10203,100000003,Nottingham Forest,Europa Conf League Av,NFO,UECL,2026-01-28T20:00:00Z,2026-01-28,2026-01-28 20:00:00+00:00,False,False,False,1.0,True,23,24
-uel,10252,100000002,Aston Villa,Europa League Av,AVL,UEL,2026-01-28T20:00:00Z,2026-01-28,2026-01-28 20:00:00+00:00,False,False,False,1.0,True,23,24
+uecl,9826,100000003,Crystal Palace,Europa Conf League Av,CRY,UECL,2026-01-28T20:00:00Z,2026-01-28,2026-01-28 20:00:00+00:00,False,False,False,1.0,True,23,24
+uel,10203,100000002,Nottingham Forest,Europa League Av,NFO,UEL,2026-01-28T20:00:00Z,2026-01-28,2026-01-28 20:00:00+00:00,False,False,False,1.0,True,23,24
 ucl,8456,100000001,Manchester City,Champions League Av,MCI,UCL,2026-01-28T20:00:00Z,2026-01-28,2026-01-28 20:00:00+00:00,False,False,False,1.0,True,23,24
 pl,10252,9937,Aston Villa,Brentford,AVL,BRE,2026-01-31T15:00:00Z,2026-01-31,2026-01-31 15:00:00+00:00,True,True,True,1.0,False,24,25
 pl,10204,8668,Brighton and Hove Albion,Everton,BHA,EVE,2026-01-31T15:00:00Z,2026-01-31,2026-01-31 15:00:00+00:00,True,True,True,1.0,False,24,25
