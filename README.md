@@ -10,7 +10,8 @@ Open the notebook in the `run` folder and run the cells to get started
 - `last_date`: final gameweek inputted as an integer, or the final date inputted as a string, to limit the solver horizon
 - `transfer_cost`: number of points by which the solver will penalise a transfer
 - `weekly_decay`: ratio by which EV of each match in the future will be discounted per week. Applied on a basis of real time passed
-- `vicecap_weight`:  
+- `vicecap_weight`: incentive to having a strong vice-captain, as a fraction of that players expected points
+- `price_change_value`: SDT only, incentive for the solver to sell players who are dropping in price and buy those who are rising, expressed in points per 1m of net value gained
 - `use_team_json`: `true` or `false` whether to use a team uploaded to the `teams` folder, will overrule the other initial settings and will ignore if one is not found
 - `initial_team`: list of fpl codes e.g. `['', '']` defining the players at the start of the solve
 - `initial_itb`: money in millions available at the start of the solve
